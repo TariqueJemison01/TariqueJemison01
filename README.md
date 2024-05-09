@@ -6,6 +6,11 @@ I'm a results-driven software engineer with a passion for creative troubleshooti
 ## Let's Connect
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tariquejemison/)
 - Check out my projects on [GitHub](https://github.com/TariqueJemison01)!
+---
+
+
+
+
 
 <!--
 **TariqueJemison01/TariqueJemison01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
