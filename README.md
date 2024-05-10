@@ -6,6 +6,8 @@
   <img src="https://profile-counter.glitch.me/TariqueJemison01/count.svg" />
 </p>
 
+## About me
+
 👋 Hi there, I'm Tarique from Ontario, Canada. I'm a results-driven software engineer with a passion for building customer-centric solutions. With a foundation in Java, C#, JavaScript, and Python, coupled with experience in cutting-edge technologies like ReactJS, Spring Boot, AWS, and Azure, I thrive on tackling complex challenges head-on. I strongly believe in continuous improvement as perfection is a journey rather than a destination, and I am dedicated to evolving and refining my skills one step at a time.
 
 ### 🌐 Let's Connect
