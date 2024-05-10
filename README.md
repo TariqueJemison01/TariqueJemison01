@@ -1,7 +1,7 @@
 # 🚀 Tarique Jemison 
 **` Versatile Developer (Developer/Digital Artist/Global Citizen)`**
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TariqueJemison01/count.svg" />
 </p>
