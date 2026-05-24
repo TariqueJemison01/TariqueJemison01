@@ -1,5 +1,5 @@
 # 🚀 Tarique Jemison 
-**` Versatile Developer (Developer/Digital Artist/Global Citizen)`**
+**` Data Engineer`**
 
 ## About me
 
